@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "COSMIIC\nThe Cleveland Open Source Modular Implant Innovators Community (COSMIIC) exists to create an open source, modular network of implantable devices for pre-clinical and early feasibility human research. I am participating in this effort through a few projects revolving around the multi-module NNP implant.\n\n\nI am leading the design of a smaller version of the current inductive charging system for the NNP implant for turning the implant on. This new, portable design will be battery powered and therefore allow Spinal Cord Injury (SCI) patients with the implant to turn on their implant anywhere. Currently a simplified setup has been made that runs off a lithium ion battery and amplifies a signal to inductively power the implant. Further improvements in efficiency and heat dissipation will be made in the next prototype of the KSC.\n\n\n\nThe Evaluation Boards are a crucial part of the COSMIIC project as they provide access to programming and testing different NNP implant modules to other researchers and clinicians without needing a fully built system. I am currently constructing and debugging these boards before they are distributed to researchers on the COSMIIC project."
+  },
+  {
+    "objectID": "projects/index.html#cosmiic---metrohealth",
+    "href": "projects/index.html#cosmiic---metrohealth",
+    "title": "Projects",
+    "section": "",
+    "text": "COSMIIC\nThe Cleveland Open Source Modular Implant Innovators Community (COSMIIC) exists to create an open source, modular network of implantable devices for pre-clinical and early feasibility human research. I am participating in this effort through a few projects revolving around the multi-module NNP implant.\n\n\nI am leading the design of a smaller version of the current inductive charging system for the NNP implant for turning the implant on. This new, portable design will be battery powered and therefore allow Spinal Cord Injury (SCI) patients with the implant to turn on their implant anywhere. Currently a simplified setup has been made that runs off a lithium ion battery and amplifies a signal to inductively power the implant. Further improvements in efficiency and heat dissipation will be made in the next prototype of the KSC.\n\n\n\nThe Evaluation Boards are a crucial part of the COSMIIC project as they provide access to programming and testing different NNP implant modules to other researchers and clinicians without needing a fully built system. I am currently constructing and debugging these boards before they are distributed to researchers on the COSMIIC project."
+  },
+  {
+    "objectID": "projects/index.html#electrical-stimulation-of-microfludic-chambers",
+    "href": "projects/index.html#electrical-stimulation-of-microfludic-chambers",
+    "title": "Projects",
+    "section": "Electrical Stimulation of Microfludic Chambers",
+    "text": "Electrical Stimulation of Microfludic Chambers\nI am currently working with Dr. Sam Senyo and his student Chao Liu to develop a board to electrically stimulate cardiac cells contained within a microfludic device. Electrical stimulation of these cells is important to study their behavior between chambers of the device under a microscope."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Reilly Burhanna, a second year Electrical Engineering PhD Student at Case Western Reserve University (CWRU). While obtaining my undergraduate degree at New Jersey Institute of Technology (NJIT), I specialized in control systems which is part of my motivation for my research now. I pursued CWRU for graduate school for the opportunities it provides in research of medical devices.\nAs a researcher for MetroHealth, I am focused on developing an improved inductive wireless charging system for the Networked Neuroprosthesis (NNP) implant. My previous experience in control systems drives my research on this subject while I gain expertise in the field of medical devices. My current work is centered on a universal charging system for rechargeable implants that can be applied to both the NNP implant and future rechargeable implants. The goal of this work is to allow those with implants to use them more frequently with less charging interruptions.\nOn this website you will find my current projects and a general overview of my career as seen on my Curriculum Vitae. If you are interested in the work I am doing or would like to collaborate, please feel free to contact me."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  }
+]
